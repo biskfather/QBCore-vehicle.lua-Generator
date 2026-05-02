@@ -2,6 +2,8 @@
 A simple python script that can generate a vehicles.lua based on the folder address specified
 Requires: https://www.python.org/downloads/ https://www.python.org/ftp/python/3.14.4/python-3.14.4-amd64.exe
 
+All instructions are given in the python console once the script is run
+
 
 <img width="973" height="505" alt="image" src="https://github.com/user-attachments/assets/7689400d-1921-4f03-9f01-9b20c98f88cc" />
 <img width="979" height="347" alt="image" src="https://github.com/user-attachments/assets/60a81d03-d739-4c98-9e3f-1246a6a68d0a" />
